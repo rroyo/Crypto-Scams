@@ -1,4 +1,4 @@
-# Channel Info
+# Frontrunning Bots
 Hello Web3 University
 Happy Halloween 🎃. As we're heading into winter and the Yuletide season, I've decided to drop a few updates for you.
 
@@ -13,7 +13,7 @@ Https://t.me/ansersen
 
 Happy Frontrunning!
 
-# Pancake Bot 1
+## Pancake Bot 1
 https://www.youtube.com/watch?v=WyXlAJtOISQ
 
 Code is updated frequently
@@ -38,7 +38,7 @@ Step by Step guide: https://justpaste.it/5xujf
 
 #BNB #BSC #FrontRun #FrontRunning #FrontRunBot #FrontRunningBot #PancakeSwap #Binance
 
-# Uniswap Bot 1
+## Uniswap Bot 1
 https://www.youtube.com/watch?v=0xMKksbrPiI
 
 Uniswap is a cryptocurrency exchange which uses a decentralized network protocol. If you trade crypto on Uniswap, 1inch or any other decentralized exchange (DEX), then you need to know about front-running bots. 
