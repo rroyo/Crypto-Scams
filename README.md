@@ -1,17 +1,8 @@
 # Frontrunning Bots
-Hello Web3 University
-Happy Halloween 🎃. As we're heading into winter and the Yuletide season, I've decided to drop a few updates for you.
 
-The pools that we target are updated regularly as profits trickle down, we're growing at a fast rate since this video launched and I'll appreciate if you guys stopped sharing this for a while because updating the code regularly can be demanding. So guys Shhhhhh! No more tips to your friends. Keep this a secret.
+Hi! Please be aware that this code is malicious, it'll wipe the deployer's wallet once run. I got ahold of it out of pure curiosity. It's really easy to get a copy, you just have to search for "front running bot" on Youtube and you'll find dozens of scammy videos with similar code. Waiting for some naive victim to deploy and execute the contract.
 
-I'll be Dropping new videos soon, so make sure you like, subscribe and hit the bell button.
-
-Remember the premium arbitrage MEV Bot and Web3 experience comes with my Premium subscription.
-
-Talk to me on telegram if you're interested
-Https://t.me/ansersen
-
-Happy Frontrunning!
+Following are a couple of "bots", once for Pancake and the other for Uniswap, along with the scammer's Youtube video description.
 
 ## Pancake Bot 1
 https://www.youtube.com/watch?v=WyXlAJtOISQ
