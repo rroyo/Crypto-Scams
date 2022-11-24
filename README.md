@@ -1,8 +1,8 @@
 # Front Running "Bots"
 
-Hi! Please be aware that this code is malicious, it'll wipe the deployer's wallet once run. I got ahold of it out of pure curiosity. It's really easy to get a copy, you just have to search for "front running bot" on Youtube and you'll find dozens of scammy videos with similar code. Waiting for some naive victim to deploy and execute the contract.
+Hi! Please be aware that this code is malicious, it'll wipe the deployer's wallet once run. I got ahold of it out of pure curiosity. It's really easy to get a copy, you just have to search for "front running bot" on Youtube and you'll find dozens of scammy videos with similar code, waiting for some naive victim to deploy and execute the contract.
 
-Following are a couple of "bots", once for Pancake and the other for Uniswap, along with the scammer's Youtube video description.
+Following are a couple of "bots", one for Pancake and the other for Uniswap, along with the scammer's Youtube video description.
 
 ## Pancake Bot 1
 https://www.youtube.com/watch?v=WyXlAJtOISQ
